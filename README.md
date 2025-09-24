@@ -17,8 +17,9 @@ Built with HTML, CSS, and JavaScript, this project demonstrates basic canvas ren
 📂 Project Structure
 .
 ├── index.html   # Main entry point
-├── style.css    # (Optional) Styling file if extracted
-└── README.md    # Project documentation
+├── style.css    
+script.js
+
 
 ⚡ Getting Started
 1. Clone the repository
