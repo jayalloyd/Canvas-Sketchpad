@@ -22,8 +22,8 @@ Built with HTML, CSS, and JavaScript, this project demonstrates basic canvas ren
 
 ⚡ Getting Started
 1. Clone the repository
-git clone https://github.com/jayalloyd/sketchpad.git
-cd sketchpad
+git clone https://github.com/jayalloyd/Canvas-Sketchpad
+cd Canvas-Sketchpad
 
 2. Open the project
 
