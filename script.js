@@ -31,14 +31,6 @@ let lastY = 0;
 
  
 let coord = {x:0 , y:0}; 
-window.addEventListener('load', ()=>{
-      
-    
-    document.addEventListener('mousedown', startPainting);
-    document.addEventListener('mouseup', stopPainting);
-    document.addEventListener('mousemove', sketch);
-    window.addEventListener('resize', resize);
-});
 
 function getPosition(event){
   coord.x = event.clientX - canvas.offsetLeft;
