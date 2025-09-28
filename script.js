@@ -88,7 +88,7 @@ colorPicker.addEventListener('input', (event) => {
 });
 
 
-colorPicker.addEventListener('dblclick', (event) => {
+colorPicker.addEventListener('change', (event) => {
     const newFillColor = event.target.value;
     ctx.fillStyle = newFillColor;
 
